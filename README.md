@@ -17,6 +17,12 @@ pip install selenium
 
 First you add your credentials into account class
 
+```
+class account:
+    login = 'YOUR LOGIN CODE HERE'
+    password = 'YOUR PASS PIN HERE'
+```
+
 And now you just need to run the script:
 ```bash
 python app.py
