@@ -1,6 +1,6 @@
 # point-form-dumbs
 
-point-form-dumbs is my python automation for Tangerino. Trying to never forget thge point again. 
+point-form-dumbs is my python automation for Tangerino. Trying to never forget the point again. 
 
 ## Installation
 
